@@ -1,0 +1,1 @@
+# hello_cmake_qt6_android
